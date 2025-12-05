@@ -10,7 +10,7 @@ Add your project images here:
 
 <p align="center">
   <img src="Images/Plane1.jpg" width="45%" />
-  <img src="Images/Plane2.jpg" width="45%" />
+  <img src="Images/Plane3.jpg" width="45%" />
 </p>
 
 ---
